@@ -1,0 +1,29 @@
+#container{
+height:200px;
+display:flex;
+align-items:flex-end;
+}
+body{
+    display:flex;
+    align-items:center;
+    flex-direction:column;
+    background-color: rgb(228, 230, 233);
+}
+.bar{
+    width:12px;
+    background-color: rgb(0, 0, 0);
+    margin:1px;
+}  
+h1 {
+    font-size: 3.5rem;
+    color: #043f7d;
+    font-family: "Arvo", cursive;
+    text-shadow: 3px 0 #8b5d72;
+  
+  }
+  footer {
+    color: #012a37;
+    font-family: sans-serif;
+    text-align: end;
+  }  
+    
